@@ -1,1 +1,3 @@
-# message-board
+# message-board  
+npm install  
+node app.js
